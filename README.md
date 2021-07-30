@@ -1,2 +1,2 @@
-- 👋 Hola, soy @angeldesweb
+- 👋 Hola, soy Ángel Zamora, @angeldesweb.
 - Amante del café ☕, la música 🎼, y la programación 💻. Soy un desarrollador web, apasionado por la tecnología, autodidacta, explorador de cada nueva tendencia, orientado a los resultados en un marco de buenas prácticas.
